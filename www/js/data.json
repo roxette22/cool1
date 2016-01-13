@@ -1,0 +1,110 @@
+[
+    
+        {
+            "id":0,
+            "name":"About Iloilo",
+            "pid":"about-iloilo",
+            "icon":"ion-heart",
+            "pageBanner": "img/iloilo-page-bg.jpg",
+            "submenu":"",
+            "details":"<div class=\"list \" class=\"content-holder\"><img src=\"../img/attractions-page-bg.jpg\" alt=\"Item Img\" class=\"responsive-image\"> <div class=\"item item-divider\">History</div><div class=\"card\"> <div class=\"item item-text-wrap\"><strong>ILOILO</strong> takes its name from Irong-Irong, the old name of the city of Iloilo, a tongue of land that sticks out like a nose on the south of Iloilo River. The Maragtas Legend tells the story of Iloilo way back in the 13th century, when Datu Puti and his fellow Datus, fled from the tyranny of Sultan Makatunao of Borneo and landed at the mouth of the Siwaragan River, now known as the town of San Joaquin, and eventually settled there.<br><br>At the that time, people called the \"Atis\", who were ruled by King Marikudo and Queen Maniwangtiwang, inhabited Panay. King Marikudo bartered the lowlands of Panay Island for a golden hat, \"saduk\", and a long gold necklace, \"manangyad\", and other assorted gifts to the Bornean Datus. The latter then took complete control of the island with the \"Atis\" retiring to the mountains. It was Datu Paiburong who was assigned in Irong-Irong. Panay Island was ruled under the Code of Kalantiao, where peace and prosperity reigned for 300 years. But this was disrupted when the Spaniards came and established the provincial government.<br><br>As early as 1855, Iloilo opened to the world of trade and became the biggest port in the Philippines and premier province of the country because of various economic activities. Municipio de Iloilo became a city under the Bacura Law in 1893.<br><br>When the Philippine Revolution started, Panay uprising against the Spaniards was led by Gen. Martin Delgado of Sta. Barbara, who liberated all the towns, except Iloilo City, Molo, and Jaro. December 28, 1898 marked the arrival of the Americans at the Iloilo port, and on April 11, 1901, Iloilo City whose status has reverted to municipality, became the chief port and trading center of Panay and Negros. Because it progressed steadily, the Commonwealth Act No. 158 incorporated the surrounding towns of Lapaz, Jaro, Mandurriao and Arevalo to form Iloilo City and was finally inaugurated on Aug. 25, 1937, and was dubbed as the \"Queen City of the South\". Gen. Martin Delgado became the first governor of the province of Iloilo.<br><br>The Japanese occupation started on April 16, 1942. The Panay Guerilla Movement, the first resistance group in the Philippines, continued fighting the Japanese Imperial Army even before the American Liberation of Panay on July 4, 1946.</div></div>   <div class=\"item item-divider\">Geography</div><div class=\"card\"><div class=\"item item-text-wrap\">Iloilo City is located in the southern shores of Panay Island. The city faces Iloilo Strait and Guimaras Island across it, making it a natural harbor and a safe anchorage for ships. The city lies on a flat alluvial plain, reclaimed mostly from the swampy areas due to urbanization and industrialization in the late 19th century until the present. Traversing the city are the rivers of Iloilo, Batiano, Jaro and Dungon Creek. Iloilo River is an estuary that separates the districts of City Proper, Molo and Villa Arevalo from the rest of the city. On the other hand, Jaro River is fed by its tributary rivers, Aganan and Tigum. Lately a new escape channel for floodwaters coming from these two rivers to Iloilo Straight was developed, the Jaro Floodway. Iloilo City is 337.6 nautical miles from Manila. The city has a total land area of 70.3 square kilometres (27.1 sq mi).<br><br>The city is divided into seven administrative districts. All of the districts were once individual towns, excluding Lapuz, which was a sub-district of La Paz until 2008. They were merged into one city on August 25, 1937 when the current Iloilo City inaugurated as a charter city. All districts have their own town centers complete with a plaza, a Roman Catholic church, a fire station, a police station and a public market. City Proper is a commercial area and the political center of the City and the Province of Iloilo and the Regional Government Center of Western Visayas.<br><br>Iloilo City is further subdivided into 180 barangays.<br>Iloilo City is the center of the only officially recognized Metropolitan Area in Western Visayas. The metropolitan area is composed of the City of Iloilo, the municipalities of Leganes, Pavia, Sta. Barbara, Cabatuan, San Miguel, Oton, the Island Province of Guimaras and its five municipalities, namely - Sibunag, San Lorenzo, Nueva Valencia, Buenavista and Jordan.<br><br>The city of Iloilo has only one legislative district.</div></div></div>"
+                
+            
+        },
+    
+        {
+            "id":1,
+            "name":"Attractions",
+            "pid":"attractions",
+            "icon":"ion-images",
+            "pageBanner": "img/attractions-page-bg.jpg",
+            "submenu":[
+            
+                    {
+                        "subid":0,
+                        "subname":"Iloilo Esplanade",
+                        "subcategory":"recreation",
+                        "subdetail":"<div class=\"list subdetails\" class=\"content-holder\"><img src=\"../img/details/details-esplanade.jpg\" alt=\"Item Img\" class=\"responsive-image\"><div class=\"item item-divider\">Iloilo Esplanade</div><div class=\"card\"><div class=\"item item-text-wrap\"><strong>The Iloilo Esplanade or simply the <em>“esplanade”</em> </strong>as locals call it is a peaceful promenade that runs alongside the Iloilo River. It is one of best showcases of the city’s efforts to rehabilitate and protect the Iloilo River and promote active lifestyles. It is also a popular tourist spot where visitors can enjoy a leisurely stroll and enjoy the serene views along the river.</div></div>"
+                    },
+                    {
+                        "subid":1,
+                        "subname":"Molo Church",
+                        "subcategory":"church",
+                        "subdetail":"<div class=\"list subdetails\" class=\"content-holder\"><img src=\"../img/details/details-molo-church.jpg\" alt=\"Item Img\" class=\"responsive-image\"><div class=\"item item-divider\">Places to Visit</div><div class=\"card\"><div class=\"item item-text-wrap\">Molo Church is a famous Spanish-colonial church and heritage site in Molo District. It known for the prominent red spires that crown its tall bell towers and as “the feminist church” because of the all-women ensemble of saints represented in 16 statues perched on the aisle pillars. Built in neogothic style, the church is one of the Iloilo City’s most familiar landmarks and top tourist attractions.</div></div>"
+                        
+                    }
+             
+            ],
+            "details":"<div class=\"list \" class=\"content-holder\"><img src=\"../img/attractions-page-bg.jpg\" alt=\"Item Img\" class=\"responsive-image\"><div class=\"item item-divider\">Places to Visit</div><div class=\"card\"><div class=\"item item-text-wrap\"><strong>Iloilo City</strong> is a tourist hub where the best restaurants, museums, hotels, shopping districts, and nightlife in the province await. It is most known for the annual Dinagyang Festival, exquisite heritage sites, deliciously fresh seafood, and signature Ilonggo dishes. The city is also home to many Spanish-colonial churches, grand vintage houses, and old commercial and institutional buildings dating back to its heyday as the <em>\"Queen City of the South.\"</em></div></div>"
+        },
+        {
+            "id":2,
+            "name":"Events",
+            "pid":"events",
+            "icon":"ion-android-calendar",
+            "pageBanner": "img/attractions-page-bg.jpg",
+            "submenu":"",
+            "details":""
+            
+        },
+        {
+            "id":3,
+            "name":"Activities",
+            "pid":"activities",
+            "icon":"ion-android-bicycle",
+            "pageBanner": "img/attractions-page-bg.jpg",
+            "subdetail":""
+            
+        },
+        {
+            "id":4,
+            "name":"Foods",
+            "pid":"foods",
+            "icon":"ion-android-restaurant",
+            "pageBanner": "img/attractions-page-bg.jpg",
+            "submenu":"",
+            "details":""
+            
+        },
+         {
+            "id":5,
+            "name":"Directory",
+            "pid":"directory",
+            "icon":"ion-ios-bookmarks",
+            "pageBanner": "img/attractions-page-bg.jpg",
+            "submenu":"",
+            "details":""
+            
+        },
+         {
+            "id":6,
+            "name":"illongo-101",
+            "pid":"illongo-101", 
+            "icon":"ion-chatbubble-working",
+            "pageBanner": "img/attractions-page-bg.jpg",
+             "submenu":"",
+            "details":""
+            
+        },
+        {
+            "id":7,
+            "name":"Maps",
+            "pid":"map", 
+            "icon":"ion-ios-location",
+            "pageBanner": "img/attractions-page-bg.jpg",
+            "submenu":"",
+            "details":""
+            
+        },
+         {
+            "id":8,
+            "name":"Contact",
+            "pid":"contact", 
+            "icon":"ion-ios-pulse",
+            "pageBanner": "img/attractions-page-bg.jpg",
+            "submenu":"",
+            "details":""
+            
+        }
+   
+]

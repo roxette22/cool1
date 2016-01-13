@@ -1,0 +1,56 @@
+<ion-view view-title="{{pages[whichpage].name}}">
+    <ion-content>
+        
+        <div ng-repeat="page in pages | filter:{id:whichpage}">
+            
+            <div ng-bind-html="page.details"></div>
+            
+            
+            
+         <ion-list>
+          <!--  <ion-item ng-repeat="details in page.submenu" class="item-icon-left item-icon-right item-text-wrap" href="#tabs/menu/{{page.id}}&{{details.subid}}" > -->
+             <ion-item ng-repeat="details in page.submenu" class="item-icon-left item-icon-right item-text-wrap" href="#tabs/menu/{{page.id}}/{{details.subid}}" >
+                    
+                   <i class="icon ion-image"></i>{{details.subname}}
+                    <i class="icon ion-ios-arrow-right"></i>
+            
+            </ion-item>
+        </ion-list>
+            
+        </div>
+        
+       
+        
+        
+        <!--
+<ion-list>
+<ion-item class="item-text-wrap" ng-repeat="page in pages | filter:{id:whichpage}">
+    
+          <h2>{{page.subdetails[0].subname}}</h2> 
+         
+      </ion-item>
+    
+
+</ion-list>
+-->
+<!--
+
+        <ion-list>
+            <ion-item class="item-text-wrap" ng-repeat="page in pages | filter:{id:whichpage}">
+                <ion-list>
+                    <ion-item class="item-text-wrap" ng-repeat="details in page.subdetails">
+                        {{details.subname}}
+
+                    </ion-item>
+                </ion-list>
+            </ion-item>
+-->
+
+<!--
+            <div data-ng-controller="TestController">
+                
+                <div ng-bind-html="tests[whichpage].details"></div>
+            </div>
+-->
+    </ion-content>
+</ion-view>
